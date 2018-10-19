@@ -1,0 +1,1 @@
+This framework is using spring remote http and rabbit, just need to add service on service list java files
